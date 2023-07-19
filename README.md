@@ -1,4 +1,4 @@
-# nest-datum-deploy-mgr
+# nest-datum-deploy-mgr21
 Simple [nest-datum services](https://github.com/orgs/nest-datum-lib/repositories) deployment manager that can short the time of **pulling**, **cloning**, **checkouting** for many of services at once.
 
 ## Install requirements
